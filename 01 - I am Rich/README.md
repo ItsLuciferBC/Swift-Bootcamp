@@ -7,6 +7,8 @@
   </sub>
 </div>
 
+[<< Home](https://github.com/ItsLuciferBC/Swift-Bootcamp) | [02 - I am Poor >>](../02%20-%20I%20am%20Poor)
+
 ## 📝 What I learned
 
 Storyboard, View, Safe area, Inspector
@@ -21,3 +23,5 @@ Storyboard, View, Safe area, Inspector
 
 - [iOS & Swift - The Complete iOS App Development Bootcamp](https://www.udemy.com/course/ios-13-app-development-bootcamp/learn/lecture/16250978#overview)
 - https://github.com/appbrewery/I-Am-Rich-iOS13-Completed
+
+[<< Home](https://github.com/ItsLuciferBC/Swift-Bootcamp) | [02 - I am Poor >>](../02%20-%20I%20am%20Poor)
