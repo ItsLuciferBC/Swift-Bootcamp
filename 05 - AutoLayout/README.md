@@ -7,7 +7,7 @@
   </sub>
 </div>
 
-[<< 04 - Magic 8 Ball](../04%20-%20Magic%208%20Ball) | [05 - AutoLayout >>](../05%20-%20AutoLayout)
+[<< 04 - Magic 8 Ball](../04%20-%20Magic%208%20Ball) | [06 - Calculator-Layout >>](../06%20-%20Calculator-Layout)
 
 ## 📝 What I learned
 
@@ -29,4 +29,4 @@
 - [iOS & Swift - The Complete iOS App Development Bootcamp](https://www.udemy.com/course/ios-13-app-development-bootcamp/learn/lecture/16252628#overview)
 
 
-[<< 04 - Magic 8 Ball](../04%20-%20Magic%208%20Ball) | [05 - AutoLayout >>](../05%20-%20AutoLayout)
+[<< 04 - Magic 8 Ball](../04%20-%20Magic%208%20Ball) | [06 - Calculator-Layout >>](../06%20-%20Calculator-Layout)
