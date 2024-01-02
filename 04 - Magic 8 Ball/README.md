@@ -7,7 +7,7 @@
   </sub>
 </div>
 
-[<< 02 - I am Poor](../02%20-%20I%20am%20Poor) | [05 - AutoLayout >>](../05%20-%20AutoLayout)
+[<< 03 - Dicee](../03%20-%20Dicee) | [05 - AutoLayout >>](../05%20-%20AutoLayout)
 
 ## 📝 What I learned
 
@@ -29,4 +29,4 @@
 - [iOS & Swift - The Complete iOS App Development Bootcamp](https://www.udemy.com/course/ios-13-app-development-bootcamp/learn/lecture/16251572#overview)
 - [https://github.com/appbrewery/I-Am-Rich-iOS13-Completed](https://github.com/appbrewery/Dicee-iOS13)
 
-[<< 02 - I am Poor](../02%20-%20I%20am%20Poor) | [05 - AutoLayout >>](../05%20-%20AutoLayout)
+[<< 03 - Dicee](../03%20-%20Dicee) | [05 - AutoLayout >>](../05%20-%20AutoLayout)
