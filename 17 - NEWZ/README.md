@@ -7,7 +7,7 @@
   </sub>
 </div>
 
-[<< 16 - Dice-SwiftUI](../16%20-%20Dice-SwiftUI) | [Home >>](../https://github.com/ItsLuciferBC/Swift-Bootcamp)
+[<< 16 - Dice-SwiftUI](../16%20-%20Dice-SwiftUI) | [Home >>](https://github.com/ItsLuciferBC/Swift-Bootcamp)
 
 ## 📝 What I learned
 
@@ -28,6 +28,6 @@
 
 - [iOS & Swift - The Complete iOS App Development Bootcamp](https://www.udemy.com/course/ios-13-app-development-bootcamp/learn/lecture/16813258#overview)
 
-[<< 16 - Dice-SwiftUI](../16%20-%20Dice-SwiftUI) | [Home >>](../https://github.com/ItsLuciferBC/Swift-Bootcamp)
+[<< 16 - Dice-SwiftUI](../16%20-%20Dice-SwiftUI) | [Home >>](https://github.com/ItsLuciferBC/Swift-Bootcamp)
 
 
